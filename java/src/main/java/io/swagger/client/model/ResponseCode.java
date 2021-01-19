@@ -27,7 +27,7 @@ import java.io.IOException;
 /**
  * ResponseCode
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2021-01-19T11:30:47.591Z")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2021-01-19T11:30:51.363Z")
 
 
 

@@ -2,7 +2,7 @@
 
 DMI Employees
 - API version: 1
-  - Build date: 2021-01-19T11:30:47.591Z
+  - Build date: 2021-01-19T11:30:51.363Z
 
 CRUD operations with DMI employees
 
